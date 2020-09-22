@@ -194,6 +194,15 @@ footer {
     font-size: 16px;
   }
 
+ #navbarNav {
+height:30%;
+width:10%;
+background-color: grey;
+border-radius:2%; 
+}
+
+ 
+
   .title-box {
     padding: 10% 0;
     line-height: 2;
